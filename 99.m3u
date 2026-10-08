@@ -147,7 +147,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1292016
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/WILLOW CRICKET HD.png" group-title="Sports",WILLOW CRICKET 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090644
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="Sports",STAR SPORTS SELECT 1 HS
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 1 TELUGU.png" group-title="Sports",STAR SPORTS SELECT 1 HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090639
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="Sports", STAR SPORTS SELECT 2 HD
@@ -169,3 +169,5 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090642
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 3 HD.png" group-title="Sports", Sony Sports 3 HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090643
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="Movies", Star Movies Select HD
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
