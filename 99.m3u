@@ -93,8 +93,10 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/510232
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEHbXwhPOW2V-zG5yEP3S8xORr6Rmxh4apA&s" group-title="Hindi Entertainment", Zee TV HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72135
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="Hindi Entertainment", Star Plus
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="Hindi Entertainment", Star Plus HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1019856
+#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Star Plus 
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="Hindi Entertainment", Sony Sab
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72150
 #EXTINF:-1 tvg-logo="https://go4.pw/India/Sony.png" group-title="Hindi Entertainment", Sony Set
