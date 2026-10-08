@@ -171,3 +171,19 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090642
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090643
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="Movies", Star Movies Select HD
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies", HBO
+http://103.151.60.162:2122/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Hits Movies 
+http://103.151.60.162:2122/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Kids", Nickelodeon 
+http://103.151.60.162:2122/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", A Sports 
+http://103.151.60.162:2122/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Sports",Pappare Tv 1 
+http://103.151.60.162:2122/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="Sports",Pappare Tv 2 
+http://103.151.60.162:2122/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Documentaries", Discovery Science 
+http://103.151.60.162:2122/play/a01j/index.m3u8
