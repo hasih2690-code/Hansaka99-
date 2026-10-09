@@ -110,7 +110,10 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/73315
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDXrU7u1hQ2TSpLqTsynoxvXBc0aj1JOpbQdw026WtA&s=10" group-title="Tamil Entertainment", Zee Tamil HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72132
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="Tamil Entertainment",Sun TV
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72125
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="Tamil Entertainment", Star Vijay 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72120
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZwfPucILupKGcihW6MtNWO5Vt7hDuN19YU7dtBZR6w&s=10" group-title="Tamil Entertainment",Zee Thirai
