@@ -25,7 +25,7 @@ https://str001.peotv.lk/ndrm/live/charana/master.m3u8
 https://str001.peotv.lk/ndrm/live/event-tv/stream_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.slt.lk/sites/default/files/channel_images/120-EventTVPlus_0.jpg" group-title="Sports", Event TV Plus 
 https://str001.peotv.lk/ndrm/live/event-tv-plus/stream_0/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.slt.lk/sites/default/files/channel_images/338-Arirang%20TV.jpg" group-title="Local Variety", Arirang
+#EXTINF:-1 tvg-logo="https://www.slt.lk/sites/default/files/channel_images/338-Arirang%20TV.jpg" group-title="World Entertainment", Arirang
 https://str001.peotv.lk/ndrm/live/arirang/stream_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png" group-title="News", ADA DERANA 24
 https://str001.peotv.lk/ndrm/live/ada-derana-24/stream_0/index.m3u8
@@ -191,5 +191,7 @@ http://103.151.60.162:2122/play/a0fm/index.m3u8
 http://103.151.60.162:2122/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Documentaries", Discovery Science 
 http://103.151.60.162:2122/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Entertainment", KBS World 
+https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
 https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2
