@@ -47,7 +47,7 @@ https://rpn.bozztv.com/slrclive/slrc/slrclive/tracks-v1a1/mono.m3u8?nimblesessio
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/cb7d3e1a7b706f8a9aca3f6cd1f213a2d10563d0573ad53d3bf85e947cc11c53d3b8f7cbe719ba3c5abdbfef1c552708013b9a06db6201d7c606f10f71341c64ebc6e63986c04619b3de043a49ce676f51f90b63c057167bd5ed552ab56994375746b95b3e037cdded5fb4662385c056de187cd9d6842526785958815e5bf5b825db9b9c2159c830f8ea4958e27a16bcdd5bd9a744f9df890e81428372ef14839af088d40e868f811ef605eb380c18117c9f816b9a8608e58dd43a6fde3578101d06b5f095fd033e80451011a9aecdee28a647ccd868836562be069d16d135dd6aae3b5b8024d3c50849683b5b88ef190814b2ece0a6fa3b38bc1494c88bfc400c5272891a3dad4ccb2b2a42e1955dc5a8b17eb7bb2184b868133fcf9544d9e7da01799aff2bcf5fbbf4fb8d294a4b710a42b64fad8c64d52ad83ad0a6a7c9703f26fecb2faaa1d8523c670fa2894dc00112bacfc1e4b56b639a334b0aba22b15f743a076a5b477455d9e34c76dfed54e6011db13414934bfdf70ffaabd4e804348f7aa6280f0ec2ba10dbfa0ea822691752f3ba00564b59658bae4703346bcc4ce0939bb72c4933c1baecae97061e471b025b008fadc540cfaf8e7b48479303732e244041df44f779cf0c4c372bcb35dab84621d6516f7eb0e777767258bbe4fdc18bdfc141f558d6ccf636667b7a6baf3c08232182e3d917ad76132e290ace5b3d039008584be69089d698866fdc952bff6b355a3093827a2b6e737d671894996ca53cb3c567f9f1ad6fcde29e074b824ec4321193c3c962ffafedea400d99a65259579fdc29c0794f9246344a4971976ed65df46d0c1add908ef65ac4a050103869/51/640x360_1387360/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/history.png" group-title="Documentaries", History TV
 http://lordstreams.live:80/Bark/Bark/434
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeo.png" group-title="Documentaries",Nat Geo Will
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/natgeo.png" group-title="Documentaries",Nat Geo Willd
 http://lordstreams.live:80/Bark/Bark/295766
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Documentaries", Animal Planet 
 http://lordstreams.live:80/Bark/Bark/508
@@ -76,7 +76,8 @@ http://lordstreams.live:80/Bark/Bark/623147
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="News", Euronews
 http://lordstreams.live:80/Bark/Bark/710568
 #EXTINF:-1 tvg-logo="https://go4.pw/India/zing.png" group-title="Music", Zing
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72516
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://premiumplug.fun/zee/zee5.php/0-9-zing.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/b4u-music.png" group-title="Music", B4U Music 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72514
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="Music", Sun Music 
@@ -97,8 +98,11 @@ http://premiumplug.fun/zee/zee5.php/0-9-tvme.m3u8
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1019856
 #EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Star Plus 
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Star Bharat 
+#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Star Bharath
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_122044711" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_122044711/list/1920x1080list823b2c22c4344831a7e5f42e44410e50.png" tvg-category="Entertainment" group-title="Hindi Entertainment" group-logo="", &TV HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://premiumplug.fun/zee/zee5.php/0-9-channel_122044711.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="Hindi Entertainment", Sony Sab
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72150
 #EXTINF:-1 tvg-logo="https://go4.pw/India/Sony.png" group-title="Hindi Entertainment", Sony Set
