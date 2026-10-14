@@ -229,5 +229,5 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Entertainment",Rakuten TV
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/05da90a5-4a6c-4df3-9e0a-2a0c5944f8a6/0.m3u8
-#EXTINF: -1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies", Romedy Now
+#EXTINF: -1 tvg-id="174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies",Romedy Now
 http://star44.xyz:80/RP155L6/M4514T1/510221
