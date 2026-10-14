@@ -81,7 +81,10 @@ http://premiumplug.fun/zee/zee5.php/0-9-zing.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/b4u-music.png" group-title="Music", B4U Music 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72514
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="Music", Sun Music 
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1019880
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="Music", MTV HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/510261
 #EXTINF:-1 tvg-logo="https://go4.pw/India/MUSICINDIA.png" group-title="Music",Music India 
