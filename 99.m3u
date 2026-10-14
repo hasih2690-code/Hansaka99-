@@ -37,7 +37,7 @@ https://str001.peotv.lk/ndrm/live/shakthi/stream_2/index.m3u8
 https://str001.peotv.lk/ndrm/live/buddhist/stream_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="Religious", Shraddha TV
 https://str001.peotv.lk/ndrm/live/shraddha/stream_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/031.png" group-title="Religious", EWTN/Verbum TV
+#EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/031.png" group-title="Religious", EWTN / Verbum TV
 https://str001.peotv.lk/ndrm/live/verbum/stream_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQGEKjPz8yC2sw/company-logo_200_200/B4DZeq0M6.GkAI-/0/1750917503536?e=2147483647&v=beta&t=WNf6tbP4xOdE6M95Xiux55oYLao80xlyVkvBbYcDFjc" group-title="Local Variety", Talent Tv 
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/1_2/index.m3u8?tkn=1857632686
@@ -121,6 +121,9 @@ http://premiumplug.fun/zee/zee5.php/0-9-zeecinemahd.m3u8
 http://premiumplug.fun/zee/zee5.php/0-9-zeetamil.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="Tamil Entertainment",Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="674" tvg-logo="" group-title="Tamil Entertainment", Colors Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
