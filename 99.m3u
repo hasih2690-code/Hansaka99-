@@ -219,3 +219,11 @@ http://103.151.60.162:2122/play/a01j/index.m3u8
 https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
 https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2
+#EXTINF:-1 tvg-logo="" group-title="Documentaries", Wild Planet 
+https://d1h8whhtg5u7om.cloudfront.net/480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News", CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Entertainment", CCTV 4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Entertainment",Rakuten TV
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/05da90a5-4a6c-4df3-9e0a-2a0c5944f8a6/0.m3u8
