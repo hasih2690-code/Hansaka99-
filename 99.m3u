@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz;https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml;https://watch.livecricketsl.xyz/epg/epg.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz;https://aqfadtv.xyz/epg"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz;https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml;https://avkb.short.gy/jioepg.xml.gz;https://watch.livecricketsl.xyz/epg/epg.xml.gz;https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz;https://aqfadtv.xyz/epg"
 #EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="Local Variety",Rupavahini
 https://str001.peotv.lk/ndrm/live/rupavahini/stream_0/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png" group-title="Local Variety",Sirasa TV
