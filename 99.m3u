@@ -65,7 +65,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34708
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34681
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/WION_news_.png" group-title="News", Wion
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/171571
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="News", Sun News
+#EXTINF:-1 tvg-id="sun-194404" tvg-name="Sun News" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg" group-title="News" group-logo="" type="dash",Sun News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
@@ -95,7 +95,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72218
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020700
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ColorsRisthey.png" group-title="Hindi Entertainment", Colors Rishtey 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/510232
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="Hindi Entertainment",Colors Cineplex 
+#EXTINF:-1 tvg-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="Hindi Entertainment",Colors Cineplex 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEHbXwhPOW2V-zG5yEP3S8xORr6Rmxh4apA&s" group-title="Hindi Entertainment", Zee TV HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
