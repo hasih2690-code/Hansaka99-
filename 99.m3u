@@ -95,7 +95,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72218
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020700
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/ColorsRisthey.png" group-title="Hindi Entertainment", Colors Rishtey 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/510232
-#EXTINF:-1 tvg-logo="https://images.bhaskarassets.com/web2images/1884/2025/02/14/jiohotstarweb_1739512810.png" group-title="Hindi Entertainment",Colors Cineplex 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Entertainment",Colors Cineplex 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEHbXwhPOW2V-zG5yEP3S8xORr6Rmxh4apA&s" group-title="Hindi Entertainment", Zee TV HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
@@ -104,7 +104,7 @@ http://premiumplug.fun/tee/zee5.php/0-9-tvme.m3u8
 http://skyfilex.fun:80/live/4bjCoAPCzR/87654werty/773734.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="Hindi Entertainment", Star Plus 
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Star Bharath
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="Hindi Entertainment", Star Bharath
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_122044711" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_122044711/list/1920x1080list823b2c22c4344831a7e5f42e44410e50.png" tvg-category="Entertainment" group-title="Hindi Entertainment" group-logo="", &TV HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
