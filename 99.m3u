@@ -139,8 +139,12 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.png" group-title="Tamil Entertainment",Zee Thirai HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 http://premiumplug.fun/tee/zee5.php/0-9-224.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/India/ZEE cafe.png" group-title="English Entertainment", Zee Cafe
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34676
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png" group-title="English Entertainment",Rock Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/India/MNX .png" group-title="English Entertainment",MNX HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34698
 
