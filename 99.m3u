@@ -150,8 +150,12 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34699
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34710
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amc.png" group-title="English Entertainment", AMC
 http://lordstreams.live:80/Bark/Bark/511
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/catchycomedy.png" group-title="English Entertainment", Catchy Comedy
-http://lordstreams.live:80/Bark/Bark/477
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="English", Rock Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="English Entertainment", DISNEY INTERNATIONAL HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/694181
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="Kids", Disney Junior 
