@@ -95,6 +95,10 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72218
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020700
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="Hindi Entertainment", Colors Rishtey 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/510232
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-logo="" group-title="Hindi Entertainment", Zee TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/main.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Hindi Entertainment",Colors Cineplex 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEHbXwhPOW2V-zG5yEP3S8xORr6Rmxh4apA&s" group-title="Hindi Entertainment", Zee TV HD
