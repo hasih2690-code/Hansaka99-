@@ -221,6 +221,17 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090642
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 3 HD.png" group-title="Sports", Sony Sports 3 HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090643
+
+#EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b088c92def1498491bbc1b068094299:53d84cead635b1d824cc9fffc80258b2
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+
+#EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" group-title="Sports",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76cef9a8124a43678e8395111611197f:c4b7065a30d7f14e869451197557363a
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="Movies", Star Movies Select HD
 http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO
