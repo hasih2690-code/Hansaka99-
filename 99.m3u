@@ -111,8 +111,10 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf332330c8114b54ad438dfc5fbe84df:09effedfdcc875560818298ea7d4c6e4
 https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="g" tvg-category="Movies" group-title="Hindi Entertainment" group-logo="", Sun Neo HD
-http://skyfilex.fun:80/live/4bjCoAPCzR/87654werty/773734.ts
+#EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="" group-title="Hindi Entertainment",&Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e13d945b7b9444efb9fc98e357526087:4adbb400a7f2a55d2698e1e329a0fe93
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="Hindi Entertainment", Star Plus 
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="Hindi Entertainment", Star Bharath
