@@ -119,6 +119,11 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictur
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="Hindi Entertainment", Star Bharath
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b896000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Tamil" tvg-logo="" group-title="SunNxt"Sun nEo",Sun Neo HD
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=194408
+
 #EXTINF:-1 tvg-id="9487113" tvg-name="&Tv HD" tvg-logo="" group-title="Hindi Entertainment",&Tv HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=57cdf56a31324fc6904f3ce47112c006:795e7e53749ea2bdd1223d8c5b5d670b
@@ -259,8 +264,6 @@ http://103.151.60.162:2122/play/a02k/index.m3u8
 http://103.151.60.162:2122/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Kids", Nickelodeon 
 http://103.151.60.162:2122/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", A Sports 
-http://103.151.60.162:2122/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="ThePapare 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/130720?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch126.mpd?begin=${start}&end=${end}" group-title="Sports",ThePapare 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
