@@ -293,8 +293,8 @@ https://api.viulk.xyz/api/m3u/Ch127.mpd|User-Agent=viu
 
 #EXTINF: -1 tvg-id="SkySpCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports", Sky Sports Cricket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Documentaries", Discovery Science 
-http://103.151.60.162:2122/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="g" group-title="Documentaries", Discovery Family 
+https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment", KBS World 
 https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nhk_japan" group-title="World Entertainment" tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan
