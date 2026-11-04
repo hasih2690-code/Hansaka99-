@@ -249,7 +249,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="Movies", Star Movies Select HD
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+https://mi-proxy-iptv.proxyculogarto.workers.dev/play/M2_rLrjny6K_fNdxksNGz6Di2Cyp0x1XDIwfBNTXSmRWFNdzm_ZR9BLTU_7RdVdf.ts
 #EXTINF:-1 tvg-id="114" tvg-name="HBO" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/22296?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch114.mpd?begin=${start}&end=${end}" group-title="Movies",HBO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -271,8 +271,8 @@ https://api.viulk.xyz/api/m3u/Ch072.mpd|User-Agent=viu
 #KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=115&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch115.mpd|User-Agent=viu
-#EXTINF:-1 group-title="Movies",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Movies",Sony Pix HD
+https://mi-proxy-iptv.proxyculogarto.workers.dev/play/M2_rLrjny6K_fNdxksNGz6Di2Cyp0x1XDIwfBNTXSmR-RTfTlKmxq9rE_gIXzVAl.ts
 #EXTINF:-1 group-title="Kids", Nickelodeon 
 http://103.151.60.162:2122/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="ThePapare 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/130720?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch126.mpd?begin=${start}&end=${end}" group-title="Sports",ThePapare 1 HD
