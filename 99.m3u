@@ -113,7 +113,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/main.mpd
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Hindi Entertainment", Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf332330c8114b54ad438dfc5fbe84df:09effedfdcc875560818298ea7d4c6e4
+#KODIPROP:inputstream.adaptive.license_key=aef082faf24b4dee820b6c0f8d7bbe42:5de674ae2583259e721077d150766b32
 https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
 #EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="" group-title="Hindi Entertainment",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
