@@ -90,8 +90,9 @@ http://lordstreams.live:80/Bark/Bark/710568
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #EXTINF:-1 tvg-id="9487084" tvg-name="Zoom" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0" group-title="Music",Zoom
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f78abc200214d7d99e31fe6e6045a04:0dc3ec315eb65c102b94a3252349b164
+#KODIPROP:inputstream.adaptive.license_key=d0981d5b2eab4db0b46d653540ca7fb4:d469abd27688bdfabb46afe49b30ebaa
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
+
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="Music", Sun Music 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
