@@ -279,11 +279,7 @@ https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment", KBS World 
 https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nhk_japan" group-title="World Entertainment" tvglogo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World Japan
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/1/sig/264766841e905cbc08d5a5d81740393544efaa810ce4f629e433632a9438bb28/a1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
 https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2 
