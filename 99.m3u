@@ -226,7 +226,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090643
 
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/StarMoviesSelectHD.png" group-title="Movies", Star Movies Select HD
-https://mi-proxy-iptv.proxyculogarto.workers.dev/play/M2_rLrjny6K_fNdxksNGz6Di2Cyp0x1XDIwfBNTXSmRWFNdzm_ZR9BLTU_7RdVdf.ts
+https://t8k.deadpooll.workers.dev/playlist?id=804
 #EXTINF:-1 tvg-id="114" tvg-name="HBO" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/22296?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch114.mpd?begin=${start}&end=${end}" group-title="Movies",HBO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
