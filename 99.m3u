@@ -149,27 +149,19 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72120
 #EXTINF:-1 tvg-id="674" tvg-logo="" group-title="Tamil Entertainment", Colors Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png" group-title="English Entertainment",Rock Entertainment
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
+
 #EXTINF:-1 tvg-logo="https://go4.pw/India/MNX .png" group-title="English Entertainment",MNX HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34698
-
+#EXTINF:-1 tvg-id="1239" tvg-name="SKY ATLANTIC" tvg-logo="https://banner2.cleanpng.com/20180622/bak/aaze53d3c.webp" group-title="English Entertainment" tvg-chno="227",SKY ATLANTIC
+https://t8k.deadpooll.workers.dev/playlist?id=1239
+#EXTINF:-1 tvg-id="6251" tvg-name="IT: DMAX HD" tvg-logo="https://vectorseek.com/wp-content/uploads/2026/10/DMAX-Spain-Logo-PNG-SVG-vectorseek.com-300x300.png" group-title="English Entertainment" tvg-chno="9902",IT: DMAX HD
+https://t8k.deadpooll.workers.dev/playlist?id=6251
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/MNPLUSHD.png" group-title="English Entertainment",MN PLUS HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34699
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/Colors_Infinityhd.png" group-title="English Entertainment", Colors Infinity HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34710
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amc.png" group-title="English Entertainment", AMC
 http://lordstreams.live:80/Bark/Bark/511
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="English Entertainment", Lifetime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
 #EXTINF:-1 tvg-id="133" tvg-name="Rock Action" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/880865?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch219.mpd?begin=${start}&end=${end}" group-title="English Entertainment",Rock Action
 #KODIPROP:inputstream=inputstream.adaptive
