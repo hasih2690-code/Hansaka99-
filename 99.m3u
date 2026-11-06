@@ -275,7 +275,7 @@ https://media-tyo.hls.nhkworld.jp/hls/wp/live/1/sig/264766841e905cbc08d5a5d81740
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
 https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2 
-#EXTINF:-1 tvg-logo="" group-title="Documentaries", Wild Planet 
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/679d2f88c5e6a0d4ba90d261/69a9c73669823806df15dfcc_Wild%20Planet_CaseStudy_Image%201.png" group-title="Documentaries", Wild Planet 
 https://d1h8whhtg5u7om.cloudfront.net/480p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master480p.m3u8
