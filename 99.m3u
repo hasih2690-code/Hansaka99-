@@ -59,6 +59,13 @@ http://lordstreams.live:80/Bark/Bark/636614
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34680
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/AnimalPlanetWorldHD.png" group-title="Documentaries", Animal Planet HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34716
+#EXTINF:-1 tvg-id="83" tvg-name="BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/23070?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentaris",BBC Earth
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=83&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch083.mpd|User-Agent=viu
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/DISCOVERYWORLDHD.png" group-title="Documentaries", Discovery HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34708
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TIMESNOWNEWSHD.png" group-title="News", TIMES NOW
@@ -74,7 +81,7 @@ https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_inde
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/808780
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News",BBC WORLD 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/809075
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="News", Russia Today 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Russia Today 
 https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="News",SKY NEWS
@@ -110,10 +117,7 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1020167
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef082faf24b4dee820b6c0f8d7bbe42:5de674ae2583259e721077d150766b32
 https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
-#EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="" group-title="Hindi Entertainment",&Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e13d945b7b9444efb9fc98e357526087:4adbb400a7f2a55d2698e1e329a0fe93
-https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
+
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/STAR-PLUS-INDIA.png" group-title="Hindi Entertainment", Star Plus 
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="Hindi Entertainment", Star Bharath
@@ -249,8 +253,7 @@ https://api.viulk.xyz/api/m3u/Ch115.mpd|User-Agent=viu
 #KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=74&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch074.mpd|User-Agent=viu
-#EXTINF:-1 group-title="Kids", Nickelodeon 
-http://103.151.60.162:2122/play/a017/index.m3u8
+
 #EXTINF:-1 tvg-id="126" tvg-name="ThePapare 1 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/130720?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch126.mpd?begin=${start}&end=${end}" group-title="Sports",ThePapare 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
