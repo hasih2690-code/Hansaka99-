@@ -170,12 +170,14 @@ http://lordstreams.live:80/Bark/Bark/511
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="English Entertainment", Rock Action
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+
+#EXTINF:-1 tvg-id="133" tvg-name="Rock Action" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/880865?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch219.mpd?begin=${start}&end=${end}" group-title="English Entertainment",Rock Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=133&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch219.mpd|User-Agent=viu
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="English Entertainment", DISNEY INTERNATIONAL HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/694181
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="Kids", Disney Junior 
@@ -284,7 +286,7 @@ https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
-https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2
+https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2 
 #EXTINF:-1 tvg-logo="" group-title="Documentaries", Wild Planet 
 https://d1h8whhtg5u7om.cloudfront.net/480p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", CGTN
@@ -312,7 +314,7 @@ https://premiumplug.fun/tee/playlist.php/0-9-zeetamil.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-224.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.png" tvg-category="Movies" group-title="Hindi Entertainment" group-logo="", &xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.png" tvg-category="Movies" group-title="Hindi Entertainment" group-logo="", &xplor HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-209.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="Star Gold" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/23046?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch087.mpd?begin=${start}&end=${end}" group-title="Hindi Entertainment",Star Gold
