@@ -154,7 +154,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34698
 #EXTINF:-1 tvg-id="1239" tvg-name="SKY ATLANTIC" tvg-logo="https://banner2.cleanpng.com/20180622/bak/aaze53d3c.webp" group-title="English Entertainment" tvg-chno="227",SKY ATLANTIC
 https://t8k.deadpooll.workers.dev/playlist?id=1239
-#EXTINF:-1 tvg-id="6251" tvg-name="IT: DMAX HD" tvg-logo="https://vectorseek.com/wp-content/uploads/2026/10/DMAX-Spain-Logo-PNG-SVG-vectorseek.com-300x300.png" group-title="English Entertainment" tvg-chno="9902",IT: DMAX HD
+#EXTINF:-1 tvg-id="6251" tvg-name="IT: DMAX HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="English Entertainment" tvg-chno="9902",IT: DMAX HD
 https://t8k.deadpooll.workers.dev/playlist?id=6251
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/MNPLUSHD.png" group-title="English Entertainment",MN PLUS HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34699
@@ -170,7 +170,7 @@ http://lordstreams.live:80/Bark/Bark/511
 #KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=133&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch219.mpd|User-Agent=viu
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="English Entertainment", DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-id="1375" group-title="English Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/694181
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="Kids", Disney Junior 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/175130
