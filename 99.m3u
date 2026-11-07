@@ -144,9 +144,9 @@ https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.
 #KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="Tamil Entertainment", Star Vijay 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="Tamil Entertainment", Star Vijay HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72120
-#EXTINF:-1 tvg-id="674" tvg-logo="" group-title="Tamil Entertainment", Colors Tamil HD
+#EXTINF:-1 tvg-id="674" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsTamilHD.png" group-title="Tamil Entertainment", Colors Tamil HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
 
