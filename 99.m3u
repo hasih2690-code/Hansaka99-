@@ -158,7 +158,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 #EXTINF:-1 tvg-logo="https://go4.pw/India/MNX .png" group-title="English Entertainment",MNX HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34698
 #EXTINF:-1 tvg-id="1239" tvg-name="SKY ATLANTIC" tvg-logo="https://banner2.cleanpng.com/20180622/bak/aaze53d3c.webp" group-title="English Entertainment" tvg-chno="227",SKY ATLANTIC
-https://t8k.deadpooll.workers.dev/playlist?id=1239
+
+#EXTINF:-1 tvg-id="lifetimerealwomen.us" tvg-name="US: Lifetime" tvg-logo="" group-title="English Entertainment",Lifetime
+http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/222523.ts
+
 #EXTINF:-1 tvg-id="6251" tvg-name="IT: DMAX HD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="English Entertainment" tvg-chno="9902", DMAX HD
 http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/90981.ts
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name=
