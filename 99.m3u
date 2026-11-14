@@ -61,6 +61,8 @@ http://lordstreams.live:80/Bark/Bark/636614
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34680
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/AnimalPlanetWorldHD.png" group-title="Documentaries", Animal Planet HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34716
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK | SKY NATURE ᶠᴴᴰ" tvg-logo="https://i.ibb.co/9TTnBS4/images-3.png" group-title="UK | DOCUMENTARY",SKY NATURE 
+http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/84130.ts
 #EXTINF:-1 tvg-id="83" tvg-name="BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/23070?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentaries",BBC Earth
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
