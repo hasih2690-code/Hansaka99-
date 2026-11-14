@@ -89,10 +89,10 @@ http://lordstreams.live:80/Bark/Bark/623147
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/euronews.png" group-title="News", Euronews
 http://lordstreams.live:80/Bark/Bark/710568
 
+
 #EXTINF:-1 tvg-id="9487084" tvg-name="Zoom" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/f84de3464c0a4609ac222605bd3b3bfe/version/0" group-title="Music",Zoom
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0981d5b2eab4db0b46d653540ca7fb4:d469abd27688bdfabb46afe49b30ebaa
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
+https://d2esfk1pb9cdob.cloudfront.net/chunklist_2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="Music", Sun Music 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
