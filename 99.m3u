@@ -225,6 +225,22 @@ http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090635
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 2 HD.png" group-title="Sports",STAR SPORTS 2 HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090637
 
+#EXTINF:-1 tvg-id="120" tvg-name="Star Sports HD 1" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/880857?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Star Sports HD 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=120&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch120.mpd|User-Agent=viu
+
+#EXTINF:-1 tvg-id="130" tvg-name="Star Sports 2 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/880863?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Star Sports 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=130&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch218.mpd|User-Agent=viu
+
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" group-title="Sports", STAR SPORTS 3 HD
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090638
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/dd-sports.png" group-title="Sports",DD SPORTS
