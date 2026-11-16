@@ -41,8 +41,14 @@ https://str001.peotv.lk/ndrm/live/shraddha/stream_1/index.m3u8
 https://str001.peotv.lk/ndrm/live/verbum/stream_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQGEKjPz8yC2sw/company-logo_200_200/B4DZeq0M6.GkAI-/0/1750917503536?e=2147483647&v=beta&t=WNf6tbP4xOdE6M95Xiux55oYLao80xlyVkvBbYcDFjc" group-title="Local Variety", Talent TV
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/1_2/index.m3u8?tkn=1857632686
-#EXTINF:-1 tvg-logo="" group-title="Local Variety", Rangiri Sri Lanka 
-http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/69412.ts
+
+#EXTINF:-1 tvg-id="21" tvg-name="Rangiri Sri Lanka" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/22844?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local Variety",Rangiri Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=21&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch021.mpd|User-Agent=viu
 
 https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180724/hy/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da92d4eba7.5492831715324187068721.jpg" group-title="Sports", Tennis TV
