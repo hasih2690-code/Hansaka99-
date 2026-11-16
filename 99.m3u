@@ -247,7 +247,10 @@ https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/pl
 #EXTINF:0 group-title="Kids" tvg-id="423" tvg-logo="http://epg.one/img2/423.png" tvg-rec="7",Nickelodeon
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/541/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/teennick.png" group-title="Kids", TeenNick
-http://lordstreams.live:80/Bark/Bark/1159
+
+#EXTINF:0 group-title="Kids" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="7",Gulli Girl
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/109/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/disneyxd.png" group-title="Kids",Disney XD
 http://lordstreams.live:80/Bark/Bark/1168
 #EXTINF:-1 tvg-id="53" tvg-name="Moonbug" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/102016?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch053.mpd?begin=${start}&end=${end}" group-title="Kids",Moonbug
