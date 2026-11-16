@@ -90,7 +90,7 @@ https://api.viulk.xyz/api/m3u/Ch083.mpd|User-Agent=viu
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch109.mpd|User-Agent=viu
 
-#EXTINF:-1 tvg-id="134" tvg-name="Deutsche Welle English" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/24072?accessKey=WkVjNWNscFhORDBLCg==" group-title="English Entertainment",Deutsche Welle English
+#EXTINF:-1 tvg-id="134" tvg-name="Deutsche Welle English" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/24072?accessKey=WkVjNWNscFhORDBLCg==" group-title="News",Deutsche Welle English
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -107,7 +107,7 @@ https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_inde
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/NDTV.png" group-title="News",NDTV
 http://livetvpremium.com:80/live/cheemaa777/cheemaa666/144.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News",BBC WORLD 
-
+http://livetvpremium.com:80/live/cheemaa777/cheemaa666/321.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Russia Today 
 https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
 
