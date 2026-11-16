@@ -69,7 +69,7 @@ http://wirefire.ddns.net:80/live/wslbmubx/fGtMBR8T/285400.m3u
 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34716
 #EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK | SKY NATURE ᶠᴴᴰ" tvg-logo="https://i.ibb.co/9TTnBS4/images-3.png" group-title="Documentaries",SKY NATURE 
-http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/84130.ts
+http://wirefire.ddns.net:80/live/wslbmubx/fGtMBR8T/53972.m3u
 #EXTINF:-1 tvg-id="83" tvg-name="BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/23070?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentaries",BBC Earth
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
