@@ -90,8 +90,13 @@ https://api.viulk.xyz/api/m3u/Ch083.mpd|User-Agent=viu
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch109.mpd|User-Agent=viu
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TIMESNOWNEWSHD.png" group-title="News", TIMES NOW
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/34681
+#EXTINF:-1 tvg-id="134" tvg-name="Deutsche Welle English" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/24072?accessKey=WkVjNWNscFhORDBLCg==" group-title="English Entertainment",Deutsche Welle English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.viulk.xyz/api/api/license?id=134&expires=1758866881|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|R{SSM}|R
+#KODIPROP:mimetype=application/dash+xml
+https://api.viulk.xyz/api/m3u/Ch151.mpd|User-Agent=viu
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/WION_news_.png" group-title="News", Wion
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/171571
 #EXTINF:-1 tvg-id="sun-194404" tvg-name="Sun News" tvg-logo="" group-title="News" group-logo="" type="dash",Sun News
