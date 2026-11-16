@@ -230,7 +230,7 @@ https://api.viulk.xyz/api/m3u/Ch219.mpd|User-Agent=viu
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch081.mpd|User-Agent=viu
 
-#EXTINF:0 group-title="Kids" tvg-id="7826" tvg-logo="http://epg.one/img2/7826.png" tvg-rec="3",Disney Channel MD
+#EXTINF:0 group-title="Kids" tvg-id="7826" tvg-logo="http://epg.one/img2/7826.png" tvg-rec="3",Disney Channel 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/2468/index.m3u8
 
 #EXTINF:0 group-title="Kids" tvg-id="3709" tvg-logo="http://epg.one/img2/3709.png" tvg-rec="3",Disney Jr. 
@@ -251,8 +251,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/541/index
 #EXTINF:0 group-title="Kids" tvg-id="810" tvg-logo="http://epg.one/img2/810.png" tvg-rec="7",Gulli Girl
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/109/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/disneyxd.png" group-title="Kids",Disney XD
-http://lordstreams.live:80/Bark/Bark/1168
+#EXTINF:0 group-title="Kids" tvg-id="2375" tvg-logo="http://epg.one/img2/2375.png" tvg-rec="3",Disney XD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/1082/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="Moonbug" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/102016?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch053.mpd?begin=${start}&end=${end}" group-title="Kids",Moonbug
 https://dq2a9ghraf7sw.cloudfront.net/360p-vtt/index.m3u8
 #EXTINF:-1 group-title="Kids",Pop
