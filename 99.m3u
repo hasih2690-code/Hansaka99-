@@ -105,7 +105,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
 https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/NDTV.png" group-title="News",NDTV
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/808780
+https://cdn.pishow.tv/ott/live/315/315_2.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/BBC-WORLD-NEWS.png" group-title="News",BBC WORLD 
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/809075
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Russia Today 
