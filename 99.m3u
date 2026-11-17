@@ -402,6 +402,8 @@ https://api.viulk.xyz/api/m3u/Ch148.mpd|User-Agent=viu
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch071.mpd|User-Agent=viu
 
+#EXTINF:-1 group-title="Movies", Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2025/11/GreatMovies.png" group-title="Movies", GREAT! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/cb543d197e6c648b9dd43b6fcef043a2f9a653fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505a6cdb7aa36170c7d97fde4146394e28ce87c11bdbe80c0bb4d8092a2fad7a1f57e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fae74345c664a1b614569128559add10908849abe3850dcf01df69f4179a8cf38dc10482d59935aa53b031445c262c9dcd28c2cf0cfbdbcf313fd1277a141a04b4a6cafc1b3a8375873d928ca30cf3d569aca50ec30904a909d863853e816ad866cd836f93dd705bdf2343c0e5486826da9dc81e3d1941cf44fab6fddc617d94e3187446895ed7373f30d284a38931e967f7e759f5836c0e2cc5834bdbada08cf9b983499967b0af4a6511302c325578f67ead9662d62bd2388cc700354e4447b9d032aee3880e61301fd4c2368662b8bd118bb72d751bb374ce2f73cb43682526a0157f75e462da953063842405bf915c91a854ad4de6b120f9a694b0486bf596eb4bf17af7ee4af3f806bb62355d42e2a5771f766130f1be31581639e150eddfceae543952cdb99fa8900568527747035ac2a2c6608b82c51e1814ea5a322f214340d8578029972b613403e55293a0007f80460628e5ac30141a4f9edabe8c82999b11e3318381a56978631737ea7328296cdaba8819ce394d7f6854cf5a3714f3540c3087ffaec497847cc19560d85a334319859a7072085f6076049ce20fe45fef8008b79c8830e1e08f1b49807c93091f90d5d60fa9b4d6272e860506e07fd7012462b109ffbc9e2bac64ed9d9cee/197/640x360_1387360/index.m3u8
@@ -426,9 +428,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/tee/playlist.php/0-9-224.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.png" tvg-category="Movies" group-title="Hindi Entertainment" group-logo="", &xplor HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://premiumplug.fun/tee/playlist.php/0-9-209.m3u8
+
 #EXTINF:-1 tvg-id="87" tvg-name="Star Gold" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/23046?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch087.mpd?begin=${start}&end=${end}" group-title="Hindi Entertainment",Star Gold
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
