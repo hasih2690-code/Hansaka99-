@@ -376,8 +376,9 @@ https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zGuXsnFaVE40Fmr043Xc2FGHLKrNLKPL_ay-URT53UppqIOwI5W1wt4&s=10" group-title="World Entertainment", K+
 https://pb-s11w9pzw0qfu9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-s11w9pzw0qfu9/c01cb5a9-6f3e-49c4-b05d-03543c50db94/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/manilashaker.com/wp-content/uploads/2018/04/genie.jpg?fit=1280%2C720&ssl=1" group-title="World Entertainment", Genie K Drama 
-https://live-us-east-1.its-newid.net/live/newid_351_5a422a88/samsung_tvplus/index.m3u8?apikey=ea54dfde-66971acf-e2f9fc67-74ffe400&resolution=960x540&channelid=newid_351_5a422a88&targetplatform=samsung_tvplus&programid=3fdb3e197517f0d31cc132b2aca5ba26955c8c3c147
+#EXTINF:-1 group-title="World Entertainment", AsianCrush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist_384x216.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms-assets.webediamovies.pro/cdn-cgi/image/dpr=1,fit=scale-down,gravity=auto,metadata=none,quality=85,width=2500/production/4756/98c559c8d45074c6a831c8ba41160afe.jpg" group-title="Ca Movie+",28 Years Letter
 https://p01--filpvt--n2d7ttkmdfh2.code.run/dl/228841/Kuch_Toh_Hai_Naagin_Ek_Naye_Rang_Mein_S01E01%28720p%29.mp4?code=2ed2f0705ba7f495550afbec-5477828485&stream=1&_retry=2 
