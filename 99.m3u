@@ -260,8 +260,9 @@ https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:0 tvg-logo="http://epg.one/img2/2889.png" tvg-rec="3",TNT Sports 1 HD 
 #EXTGRP: Sports 
 http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/6566/index.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="Sports", Ten Cricket 
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1292016
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" tvg-country="Unknown" group-title="Sports" tvg-flag="",Ten Sports
+http://livetvpremium.com:80/live/cheemaa777/cheemaa666/3414.ts
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/WILLOW CRICKET HD.png" group-title="Sports",WILLOW  
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090644
