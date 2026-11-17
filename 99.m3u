@@ -369,8 +369,8 @@ https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_key=f90301523783443fadc8922c2580ce92:83c53f348588e35cdebcf49a1f23a1b6
 https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
-#EXTINF: -1 tvg-id="SkySpCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports", Sky Sports Cricket
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="4577" tvg-logo="http://epg.one/img2/4577.png" tvg-rec="0",Sky Sports Cricket HD 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/7343/index.m3u8
 #EXTINF:-1 tvg-logo="g" group-title="Documentaries", Discovery Family 
 https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Entertainment", KBS World 
