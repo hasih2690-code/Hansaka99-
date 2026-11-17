@@ -361,13 +361,11 @@ https://api.viulk.xyz/api/m3u/Ch126.mpd|User-Agent=viu
 https://api.viulk.xyz/api/m3u/Ch127.mpd|User-Agent=viu
 
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" tvg-category="Sports" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/U5hCC5eI3y7NKBOs1xFMHddHFWKuxV2vJj3rKbWo5fsmRzHVJMl7AmbqfOMxLsXKC4e5qf7L7h8LKZMU6U0fIJM" type="dash",Unite8 Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdb87c44403941f3a47c6eba2e0bf945:27203f21df449d8dc970675b4105f837
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+http://livetvpremium.com:80/live/cheemaa777/cheemaa666/151.ts
+
+
 #EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/03fc75c46d9a4b8daff3ef58d77c5bc7/version/0" tvg-category="Sports" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/U5hCC5eI3y7NKBOs1xFMHddHFWKuxV2vJj3rKbWo5fsmRzHVJMl7AmbqfOMxLsXKC4e5qf7L7h8LKZMU6U0fIJM" type="dash",Unite8 Sports 2 HD 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f90301523783443fadc8922c2580ce92:83c53f348588e35cdebcf49a1f23a1b6
-https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+http://livetvpremium.com:80/live/cheemaa777/cheemaa666/152.ts
 
 #EXTINF:0 group-title="Sports" tvg-id="4577" tvg-logo="http://epg.one/img2/4577.png" tvg-rec="0",Sky Sports Cricket HD 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/7343/index.m3u8
