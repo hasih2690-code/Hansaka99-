@@ -288,8 +288,8 @@ https://api.viulk.xyz/api/m3u/Ch120.mpd|User-Agent=viu
 #KODIPROP:mimetype=application/dash+xml
 https://api.viulk.xyz/api/m3u/Ch218.mpd|User-Agent=viu
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" group-title="Sports", STAR SPORTS 3 HD
-http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/1090638
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/STAR SPORTS 3.png" group-title="Sports", STAR SPORTS 3 
+http://livetvpremium.com:80/live/cheemaa777/cheemaa666/182.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/dd-sports.png" group-title="Sports",DD SPORTS
 http://kalvirox.cc:80/M7X47FG789EKSC4/nE0HYypYSy/72187
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports 1 HD
