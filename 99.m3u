@@ -140,7 +140,7 @@ http://livetvpremium.com:80/live/cheemaa777/cheemaa666/9087.ts
 http://livetvpremium.com:80/live/cheemaa777/cheemaa666/288.ts
 #EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2016/01/NOW-80s.png" group-title="Music",Now 80s
 https://lightning-now80s-rakuten.amagi.tv/playlist360p.m3u8
-#EXTINF:-1 tvg-logo="https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/VE-Vevo-80s-V2-HERO-EPG-600x300.png" group-title="Music",Vevo '90s & '00s
+#EXTINF:-1 tvg-logo="https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/VE-Vevo-80s-V2-HERO-EPG-600x300.png" group-title="Music",Vevo '90s & '80s
 https://d1cj21il6keqa2.cloudfront.net/playlist640x360p.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="Colors" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/22802?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch088.mpd?begin=${start}&end=${end}" group-title="Hindi Entertainment",Colors
 #KODIPROP:inputstream=inputstream.adaptive
@@ -220,7 +220,7 @@ http://matrix8ktrex.xyz:80/63C6C70A5235/D20EB1CBC9AF/34699
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/Colors_Infinityhd.png" group-title="English Entertainment", Colors Infinity HD
 http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=7133&deviceMac=00:1A:79:31:34:0E
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/amc.png" group-title="English Entertainment", AMC
-http://lordstreams.live:80/Bark/Bark/511
+http://line.one-ott.xyz/live/WVA97U/4Y7PG8/855356.ts
 
 #EXTINF:-1 tvg-id="133" tvg-name="Rock Action" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/880865?accessKey=WkVjNWNscFhORDBLCg==" catchup="shift" catchup-days="3" catchup-source="https://api.viulk.xyz/api/m3u/Ch219.mpd?begin=${start}&end=${end}" group-title="English Entertainment",Rock Action
 #KODIPROP:inputstream=inputstream.adaptive
